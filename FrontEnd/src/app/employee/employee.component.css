@@ -1,0 +1,38 @@
+.example {
+    display: inline-block;
+    width: 33.33%;
+    padding-top: 50px;
+}
+
+.example-card {
+    max-width: 400px;
+  }
+  
+.image {
+background-size: cover;
+}
+
+.labelSize {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.labelPhone {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* .button {
+   float: right;
+   padding-top: 0px;
+} */
+
+#button1 {
+    background-color: blueviolet;
+    color: white;
+}
+
+#button2 {
+    background-color: grey;
+    color: white;
+}

@@ -1,0 +1,12 @@
+.dialog {
+    height: 400px;
+    width: 400px;
+}
+
+mat-form-field {
+    width: 380px;
+}
+
+#button {
+    float: right;
+}
